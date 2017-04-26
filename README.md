@@ -1,5 +1,5 @@
 # python-fortran
-1. Create fortran file. \n
+1. Create fortran file. 
 
 2. Compile fortran file like, for example, "gfortran -shared -fPIC -g -o add.so add.f90"
 Description previous command: 
